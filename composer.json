@@ -11,7 +11,7 @@
     {
       "name": "Santosh Achari",
       "email": "hi@santo.sh"
-    },
+    }
   ],
   "require": {
     "php": ">=5.4.0",
