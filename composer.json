@@ -1,5 +1,5 @@
 {
-  "name": "santoshachari/generators",
+  "name": "santoshachari/schema-generators",
   "description": "Extend Laravel 5.5's generators.",
   "keywords": ["laravel", "generators"],
   "license": "MIT",
