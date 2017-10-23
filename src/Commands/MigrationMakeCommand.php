@@ -60,6 +60,12 @@ class MigrationMakeCommand extends Command
         $this->composer = app()['composer'];
     }
 
+    //For Laravel 5.5
+    public function handle()
+    {
+        $this->fire();
+    }
+    
     /**
      * Execute the console command.
      *
