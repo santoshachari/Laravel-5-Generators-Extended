@@ -1,13 +1,17 @@
 {
-  "name": "laracasts/generators",
-  "description": "Extend Laravel 5's generators.",
+  "name": "santoshachari/generators",
+  "description": "Extend Laravel 5.5's generators.",
   "keywords": ["laravel", "generators"],
   "license": "MIT",
   "authors": [
     {
       "name": "Jeffrey Way",
       "email": "jeffrey@laracasts.com"
-    }
+    },
+    {
+      "name": "Santosh Achari",
+      "email": "hi@santo.sh"
+    },
   ],
   "require": {
     "php": ">=5.4.0",
